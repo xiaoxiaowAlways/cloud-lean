@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-node/app-node.iml" filepath="$PROJECT_DIR$/app-node/app-node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-node-feign/app-node-feign.iml" filepath="$PROJECT_DIR$/app-node-feign/app-node-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-node-hystrix-dashboard/app-node-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/app-node-hystrix-dashboard/app-node-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-3344/cloud-config-3344.iml" filepath="$PROJECT_DIR$/cloud-config-3344/cloud-config-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-lean.iml" filepath="$PROJECT_DIR$/cloud-lean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-config-7001/eureka-config-7001.iml" filepath="$PROJECT_DIR$/eureka-config-7001/eureka-config-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-7001/eureka-server-7001.iml" filepath="$PROJECT_DIR$/eureka-server-7001/eureka-server-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-7002/eureka-server-7002.iml" filepath="$PROJECT_DIR$/eureka-server-7002/eureka-server-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-7003/eureka-server-7003.iml" filepath="$PROJECT_DIR$/eureka-server-7003/eureka-server-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-8001/user-8001.iml" filepath="$PROJECT_DIR$/user-8001/user-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-8002/user-8002.iml" filepath="$PROJECT_DIR$/user-8002/user-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-8003/user-8003.iml" filepath="$PROJECT_DIR$/user-8003/user-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-config-8001/user-config-8001.iml" filepath="$PROJECT_DIR$/user-config-8001/user-config-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-hystrix-8001/user-hystrix-8001.iml" filepath="$PROJECT_DIR$/user-hystrix-8001/user-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-hystrix-8002/user-hystrix-8002.iml" filepath="$PROJECT_DIR$/user-hystrix-8002/user-hystrix-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-hystrix-8003/user-hystrix-8003.iml" filepath="$PROJECT_DIR$/user-hystrix-8003/user-hystrix-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-gateway-9527/zuul-gateway-9527.iml" filepath="$PROJECT_DIR$/zuul-gateway-9527/zuul-gateway-9527.iml" />
+    </modules>
+  </component>
+</project>

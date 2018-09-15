@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="app-node" />
+        <module name="app-node-feign" />
+        <module name="app-node-hystrix-dashboard" />
+        <module name="cloud-config-3344" />
+        <module name="cloud-config-client" />
+        <module name="eureka-config-7001" />
+        <module name="eureka-server-7001" />
+        <module name="eureka-server-7002" />
+        <module name="eureka-server-7003" />
+        <module name="user-8001" />
+        <module name="user-8002" />
+        <module name="user-8003" />
+        <module name="user-config-8001" />
+        <module name="user-hystrix-8001" />
+        <module name="user-hystrix-8002" />
+        <module name="user-hystrix-8003" />
+        <module name="zuul-gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="app-node" target="1.8" />
+      <module name="app-node-feign" target="1.8" />
+      <module name="app-node-hystrix-dashboard" target="1.8" />
+      <module name="cloud-config-3344" target="1.8" />
+      <module name="cloud-config-client" target="1.8" />
+      <module name="cloud-lean" target="1.8" />
+      <module name="eureka-config-7001" target="1.8" />
+      <module name="eureka-server-7001" target="1.8" />
+      <module name="eureka-server-7002" target="1.8" />
+      <module name="eureka-server-7003" target="1.8" />
+      <module name="user-8001" target="1.8" />
+      <module name="user-8002" target="1.8" />
+      <module name="user-8003" target="1.8" />
+      <module name="user-config-8001" target="1.8" />
+      <module name="user-hystrix-8001" target="1.8" />
+      <module name="user-hystrix-8002" target="1.8" />
+      <module name="user-hystrix-8003" target="1.8" />
+      <module name="zuul-gateway-9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+com\wolf\cloud\appnode\AppNodeFeignApplication.class
+com\wolf\cloud\appnode\controller\FeignUserControllerC.class
+com\wolf\cloud\appnode\config\RestConfig.class

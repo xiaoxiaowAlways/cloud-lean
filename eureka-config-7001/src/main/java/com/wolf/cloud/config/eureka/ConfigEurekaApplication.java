@@ -1,0 +1,17 @@
+package com.wolf.cloud.config.eureka;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
+/**
+ * @author Captain Wolf
+ * 2018/9/15 20:22
+ */
+@SpringBootApplication
+@EnableEurekaServer
+public class ConfigEurekaApplication {
+  public static void main(String[] args) {
+    SpringApplication.run(ConfigEurekaApplication.class, args);
+  }
+}
