@@ -1,7 +1,0 @@
-com\wolf\cloud\user\mapper\UserMapper.class
-com\wolf\cloud\user\config\MybatisConfig.class
-com\wolf\cloud\user\config\DruidConfig.class
-com\wolf\cloud\user\service\impl\UserServiceImpl.class
-com\wolf\cloud\user\UserHystrixApplication8001.class
-com\wolf\cloud\user\controller\UserController.class
-com\wolf\cloud\user\service\UserService.class
